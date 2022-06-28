@@ -518,3 +518,6 @@ form{
     transform: translate(100px);
     transition: transform 1s;
 }
+b{
+    color: #ff523b;
+}
